@@ -1,0 +1,25 @@
+Crime Rate Prediction 
+
+Murder rate prediction
+
+Algorithm / Model Used: Random Forest Regressor
+
+Overall Accuracy: 0.99 
+
+Rape rate prediction
+
+Algorithm / Model Used: RandomForestRegressor
+
+Overall Accuracy: 0.98
+
+Theft rate prediction
+
+Algorithm / Model Used: RandomForestRegressor
+
+Overall Accuracy: 0.99
+
+Total rate prediction
+
+Algorithm / Model Used: RandomForestRegressor
+
+Overall Accuracy: 0.93
